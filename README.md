@@ -7,10 +7,6 @@
 
 ## About
 
-I created this interactive website to provide a professional and simple website for a Civil and Structural Engineering company I work for.
-
-The website targets customers and clients that would require the use of a civil and/or structural engineering services provided by the company I work for. 
-
 The goal of this website is to provide information about Smart Associates, and the services it provides. It also provides interactive pages showing some of the projects the company has been involved in and a contact us page. 
 
 This website must be professional for the target audience and contain the information needed to complete the goals of the business owner and site visitors. It must also stand out and be memorable for future visits and for recommendations to other potential users.
@@ -88,9 +84,9 @@ This website must be professional for the target audience and contain the inform
 
 #### Typography
 
-For fonts, I used [Google Fonts](https://fonts.google.com) for my website. 
+For fonts,  [Google Fonts](https://fonts.google.com)
 
-I have chosen the font-family: ['Georama'](https://fonts.google.com/specimen/Georama), sans-serif; for the Headings and Menu sections of the website as it is easy to read and has a nice cursive font which matches the style of the website. I also felt this fitted in well with the design of the website.
+font-family: ['Georama'](https://fonts.google.com/specimen/Georama), sans-serif; for the Headings and Menu sections of the website as it is easy to read and has a nice cursive font which matches the style of the website.
 
 #### Colours
 
